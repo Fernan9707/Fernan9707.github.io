@@ -1,0 +1,45 @@
+.nois {
+    width: 850px;
+    height: 800px;
+    position: absolute;
+}
+
+.paint {
+
+    width: 550px;
+    height: 350px;
+
+}
+
+.postal {
+
+    width: 550px;
+    height: 450px;
+    margin-bottom: 5px;
+}
+
+.postal1 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+
+h3 {
+
+    zoom: 300%;
+    height: 5px;
+}
+
+.titulo {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-content: flex-end;
+}
+
+body {
+
+    top: 5px;
+}
