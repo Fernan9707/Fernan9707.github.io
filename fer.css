@@ -7,14 +7,14 @@ body {
 
 .caja2 {
     background-color: violet;
-    width: 700px;
+    width: 350px;
     height: 500px;
     width: 50vw;
     height: 50vw;
 }
 
 .caja3 {
-    width: 700px;
+    width: 350px;
     height: 500px;
     background-color: brown;
     height: 50vw;
@@ -33,7 +33,7 @@ body {
 
 .nois {
 
-    width: 700px;
+    width: 50vw;
     height: 50vw;
 }
 
